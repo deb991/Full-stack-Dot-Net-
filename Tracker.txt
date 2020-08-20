@@ -1,0 +1,7 @@
+20-08-2020
+https://www.youtube.com/watch?v=E7Voso411Vs
+Initial checking upon system dependencies. 
+Check Primary concept of MVC
+Site Build architcture. 
+
+=====So on===
